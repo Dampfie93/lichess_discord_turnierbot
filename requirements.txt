@@ -3,4 +3,4 @@ python-chess
 pandas
 tabulate
 numpy
-PIL
+Pillow
