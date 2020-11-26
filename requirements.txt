@@ -1,5 +1,5 @@
 discord.py
-python-chess
+python-chess==0.24.1
 pandas
 tabulate
 numpy
