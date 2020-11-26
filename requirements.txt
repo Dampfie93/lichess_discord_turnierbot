@@ -1,5 +1,5 @@
 discord.py
-chess.pgn
+python-chess
 pandas
 tabulate
 numpy
