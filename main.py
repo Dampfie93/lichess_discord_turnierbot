@@ -2,7 +2,7 @@ import discord
 import requests
 import json
 import io
-import chess.pgn
+import chess
 import pandas as pd
 import time
 from tabulate import tabulate
