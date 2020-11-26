@@ -1,0 +1,6 @@
+discord.py
+chess.pgn
+pandas
+tabulate
+numpy
+PIL
